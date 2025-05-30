@@ -1,8 +1,20 @@
-# React + Vite
+iTask
+A simple and clean task management web app to add, edit, and delete your to-dos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Add, edit, and delete tasks
 
-Currently, two official plugins are available:
+Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Saves tasks in browser (LocalStorage)
+
+Tech Used
+HTML
+
+Tailwind CSS
+
+JavaScript
+
+Live Demo
+👉https://itask-tan.vercel.app/
+
