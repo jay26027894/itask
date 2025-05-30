@@ -1,20 +1,11 @@
-iTask
-A simple and clean task management web app to add, edit, and delete your to-dos.
+iTask 📝
+A sleek and intuitive task management web app for organizing your to-dos efficiently.
 
-Features
-Add, edit, and delete tasks
+🚀 Features
+✅ Add, edit, and delete tasks easily
 
-Responsive design
+📋 Organized task layout with responsive design
 
-Saves tasks in browser (LocalStorage)
+💾 LocalStorage support to persist tasks
 
-Tech Used
-HTML
-
-Tailwind CSS
-
-JavaScript
-
-Live Demo
-👉https://itask-tan.vercel.app/
-
+⚡ Smooth and minimalistic UI
